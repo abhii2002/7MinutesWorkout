@@ -1,0 +1,21 @@
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:name="vector"
+    android:width="32dp"
+    android:height="32dp"
+    android:viewportWidth="32"
+    android:viewportHeight="32">
+
+    <group
+        android:name="heartBeat"
+        android:pivotX="12"
+        android:pivotY="12">
+
+
+    <path
+        android:name="path"
+        android:pathData="M 14.74 23.84 L 14.66 23.84 C 14.26 23.8 13.94 23.48 13.9 23.08 L 12.9 13.12 L 12.02 15.84 C 11.9 16.2 11.58 16.4 11.22 16.4 L 5.34 16.4 C 4.86 16.4 4.5 16.04 4.5 15.6 C 4.5 15.16 4.86 14.76 5.34 14.76 L 10.66 14.76 L 12.58 8.76 C 12.7 8.4 13.06 8.16 13.46 8.2 C 13.86 8.24 14.14 8.56 14.18 8.96 L 15.14 18.68 L 17.18 11.72 C 17.3 11.36 17.58 11.12 17.98 11.12 C 18.34 11.12 18.66 11.4 18.78 11.76 L 19.9 16.6 L 20.74 15.36 C 20.9 15.12 21.14 15 21.42 15 L 26.7 15 C 27.14 15 27.54 15.36 27.54 15.84 C 27.54 16.28 27.18 16.68 26.7 16.68 L 21.86 16.68 L 20.22 19.12 C 20.02 19.4 19.7 19.52 19.38 19.48 C 19.06 19.44 18.78 19.16 18.74 18.84 L 17.9 15.24 L 15.54 23.32 C 15.42 23.6 15.1 23.84 14.74 23.84 Z"
+        android:fillColor="#000"
+        android:strokeWidth="1"/>
+    </group>
+</vector>
